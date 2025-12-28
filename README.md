@@ -1,6 +1,8 @@
 # Anon Encrypter 🔐
 
-![Anon Encrypter](reso/img.png)
+![Anon Encrypter]
+
+<a href="#" img src="reso/img.png"></a>
 
 **Anon Encrypter** is a privacy-focused encryption tool developed by **Dexel Software Solutions**, designed to secure text, files, and credentials using multi-layer encryption and anonymous processing. Lightweight, fast, and reliable, it provides professional-grade security for developers, cybersecurity professionals, and privacy-conscious users.
 
