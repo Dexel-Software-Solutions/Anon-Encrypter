@@ -9,6 +9,7 @@
 - **Developer Name:** Demiyan Dissanayake  
 - **Company:** Dexel Software Solutions  
 - **Role:** Lead Developer & Software Engineer
+- **Programming Language** Python + Tkinter
 - **Email:** dexelsoftwaresolutions@gmail.com
 - **GitHub:** [https://github.com/Dexel-Software-Solutions](https://github.com/Dexel-Software-Solutions)  
 
