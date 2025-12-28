@@ -10,9 +10,9 @@
 
 - **Developer Name:** Demiyan Dissanayake  
 - **Company:** Dexel Software Solutions  
-- **Role:** Lead Developer & Cybersecurity Specialist  
-- **Email:** demiyan@dexelsoft.com  
-- **GitHub:** [https://github.com/TDEMX](https://github.com/TDEMX)  
+- **Role:** Lead Developer & Software Engineer
+- **Email:** dexelsoftwaresolutions@gmail.com
+- **GitHub:** [https://github.com/Dexel-Software-Solutions](https://github.com/Dexel-Software-Solutions)  
 
 ---
 
@@ -47,4 +47,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/AnonEncrypter.git
+   https://github.com/Dexel-Software-Solutions/Anon-Encrypter.git
