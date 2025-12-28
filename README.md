@@ -36,7 +36,7 @@
 | Ideal for Files & Text        | ✅ Yes         | ✅ Yes           | ❌ No            |
 | Security Level                | Ultra High     | High             | Low              |
 
-> **Pro-level Explanation:**  
+> **Details:**  
 > Anon Encrypter isn’t just another encryption tool. Unlike standard AES implementations or basic obfuscators, it combines multi-layered encryption with anonymous processing and anti-reverse logic. This ensures encrypted data is secure, difficult to analyze, and professionally protected. Its lightweight design allows fast encryption without compromising performance.
 
 ---
